@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f92af0d-ad0d-4f5e-9738-56b19bd259ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4tuFn0qaEnm00OKweQbs48xWa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pizza/static" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bvish\vishpython\Boreddygarden\pizza\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bvish\vishpython\Boreddygarden\pizza\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f92af0d-ad0d-4f5e-9738-56b19bd259ac" name="Default Changelist" comment="" />
+      <created>1584110414956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584110414956</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="206" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584551317288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="206" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1584551317288" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584698791599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584698791599" />
+    <state x="372" y="9" key="SettingsEditor" timestamp="1584110560343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="372" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584110560343" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584697000242">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584697000242" />
+    <state x="395" y="0" width="570" height="707" key="dock-window-1" timestamp="1584179115304">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="0" width="570" height="707" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1584179115304" />
+    <state x="253" y="138" width="521" height="677" key="dock-window-2" timestamp="1584350900861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="138" width="521" height="677" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1584350900861" />
+    <state x="525" y="0" width="521" height="677" key="dock-window-3" timestamp="1584352922456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="525" y="0" width="521" height="677" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1584352922456" />
+    <state x="733" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584272488348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="733" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584272488348" />
+  </component>
+</project>
